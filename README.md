@@ -8,6 +8,9 @@
 ### Graph Embeddings — The Summary 
 This article presents what graph embeddings are, their use, and the comparison of the most commonly used graph embedding approaches.
 https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007  
+A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications  
+https://arxiv.org/abs/1709.07604   
+
 
 ### Machine Learning — Text Classification, Language Modelling using fast.ai  
 https://towardsdatascience.com/machine-learning-text-classification-language-modelling-using-fast-ai-b1b334f2872d  
